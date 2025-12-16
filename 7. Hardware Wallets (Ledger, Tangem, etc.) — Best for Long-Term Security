@@ -1,0 +1,22 @@
+7. Hardware Wallets (Ledger, Tangem, etc.) — Best for Long-Term Security
+
+If security first is your priority, consider hardware wallets that support STX (directly or via integration with software wallets like Xverse or Ledger Live). These devices store private keys offline — vastly reducing risk from online attacks. Options include:
+
+Ledger Nano X / Ledger Stax (connects through apps)
+CoinLore
+
+Tangem Cards/Wallets — NFC-based hardware wallets with offline key storage.
+tangem.com
++1
+
+Pros
+
+Highest level of security
+
+Ideal for large holdings or long-term storage
+
+Cons
+
+More expensive
+
+Extra steps required to sign transactions
